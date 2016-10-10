@@ -1,0 +1,18 @@
+# Web Notes
+
+1. [近200篇机器学习&深度学习资料分享](http://wenda.chinahadoop.cn/question/2680)  
+2. [vim 快捷键整理](http://blog.csdn.net/ceven2010/article/details/7406341)  
+3. [最佳vim技巧](http://www.cnblogs.com/napoleon_liu/articles/1988535.html)  
+4. [Python数据分析学习路径图（120天Get新技能）](http://dataunion.org/21657.html)  
+5. [深度学习与计算机视觉系列1 基础介绍](http://dataunion.org/21801.html)   
+6. [Python爬虫实战之：模拟登录淘宝并获取所有订单](http://dataunion.org/22388.html)  
+7. [回收站功能在 Linux 中的实现](https://www.ibm.com/developerworks/cn/linux/1410_licy_linuxtrash/)  
+8. [MapReduce工作原理图文详解](http://dataunion.org/22608.html)
+9. [Linux Shell 文本处理工具集锦](http://www.codeceo.com/article/linux-shell-editor.html)
+10. [常用的 Python 爬虫技巧总结](http://www.codeceo.com/article/python-spider-skills.html)
+11. [用Python写一个简单的微博爬虫](http://dataunion.org/23004.html)  
+12. [游戏中学会撸代码：这些编程学习网站不容错过](http://www.freebuf.com/geek/103452.html)
+13. [史上最全“大数据”学习资源整理](http://www.thebigdata.cn/YeJieDongTai/30016.html)
+14. [正则表达式30分钟入门教程](http://www.jb51.net/tools/zhengze.html)
+15. [每天一个linux命令(1)：ls命令](http://www.cnblogs.com/peida/archive/2012/10/23/2734829.html)
+16. [小七告诉你！坏的手机不要乱丢，不然萌妹纸就曝光啦！](http://bbs.mydigit.cn/read.php?tid=1302561)

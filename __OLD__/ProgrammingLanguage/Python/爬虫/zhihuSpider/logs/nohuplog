@@ -1,0 +1,8 @@
+nohup: ignoring input
+2016-04-29 16:06:27 log begin ================================================
+2016-04-29 16:06:27,820 getQuestions.py[line:176] INFO ---> Start...
+2016-04-29 16:06:27,820 getQuestions.py[line:157] INFO -----------------Get Questions from Zhihu------------------------
+2016-04-29 16:06:27,820 getQuestions.py[line:158] INFO ---> Catch command line arguments...
+2016-04-29 16:06:27,820 getQuestions.py[line:142] INFO ---> Start_list: [40000001, 41000000, 41999999, 42999998, 43999997, 44999996, 45999995, 46999994, 47999993, 48999992]
+2016-04-29 16:06:27,820 getQuestions.py[line:143] INFO ---> End_list: [41000000, 41999999, 42999998, 43999997, 44999996, 45999995, 46999994, 47999993, 48999992, 49999991]
+2016-04-29 16:06:27,821 getQuestions.py[line:147] INFO ---> Threads: [<Thread(_thread_0, initial)>, <Thread(_thread_1, initial)>, <Thread(_thread_2, initial)>, <Thread(_thread_3, initial)>, <Thread(_thread_4, initial)>, <Thread(_thread_5, initial)>, <Thread(_thread_6, initial)>, <Thread(_thread_7, initial)>, <Thread(_thread_8, initial)>, <Thread(_thread_9, initial)>]
